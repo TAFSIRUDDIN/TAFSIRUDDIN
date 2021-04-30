@@ -8,6 +8,10 @@
 - 📫 Anyone contact me with via facebook ([Tafsir Uddin](https://www.facebook.com/profile.php?id=100008669771700).) or via Email ( tafsirtapu04@gmail.com)
 - 📫 Anyone contact me with via LinkedIn ([Tafsir Uddin](https://www.linkedin.com/in/tafsir-uddin-tapu).)
 
+- 👋 
+I am a new web developer.I have completed 10+ react project. And many HTML and CSS project. ✨Feel free to contact me.✨ I Will try my best to fulfill your requirements
+- 👋
+
 <!---
 I am a new web developer.I have completed 10+ react project. And many HTML and CSS project. ✨Feel free to contact me.✨ I Will try my best to fulfill your requirements.
 --->

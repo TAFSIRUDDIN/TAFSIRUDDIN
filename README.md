@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @TAFSIRUDDIN
+- 👀 I’m a web developer. 
+- 👀 I have to much experience in HTML5 ,CSS , Bootstrap ,JavaScript , ReactJs , ReactBootstrap, Material UI etc.
+- 👀 I’m interested in React js.
 - 👀 I’m interested in Javascript.
-- 🌱 I’m currently learning React js.
+- 🌱 I’m currently learning NodeJs.
 - 💞️ I’m looking to collaborate on another react developer.
 - 📫 Anyone contact me with via facebook ([Tafsir Uddin](https://www.facebook.com/profile.php?id=100008669771700).) or via Email ( tafsirtapu04@gmail.com)
 

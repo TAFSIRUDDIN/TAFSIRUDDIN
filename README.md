@@ -9,6 +9,5 @@
 - 📫 Anyone contact me with via LinkedIn ([Tafsir Uddin](https://www.linkedin.com/in/tafsir-uddin-tapu).)
 
 <!---
-TAFSIRUDDIN/TAFSIRUDDIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I am a new web developer.I have completed 10+ react project. And many HTML and CSS project. ✨Feel free to contact me.✨ I Will try my best to fulfill your requirements.
 --->
